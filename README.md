@@ -1,6 +1,6 @@
 # Carrinho-Compras
 <br><br>
-Criado em java usando Tomcat
+Criado em java usando Tomcat, criado em aula
 <br><br>
 <img src="Captura de tela 2023-05-15 211830.png">
 <br><br>
